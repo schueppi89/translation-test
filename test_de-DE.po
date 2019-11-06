@@ -7,23 +7,28 @@ msgstr ""
 "Project-Id-Version: test\n"
 "Language: de\n"
 
-#: D:\Repos\gitEverTelemetry\src\views\template\User.html:14
+#: D:\Repos\gitEverTelemetry\src\views\template\User.html:15
 msgid "Setting"
-msgstr "Speicher"
+msgstr "Einstellungen"
 
 #: D:\Repos\gitEverTelemetry\src\views\template\User.html:25
-msgid "Please Choose"
-msgstr "Bitte Wählen"
+#, fuzzy
+msgid "Please Choose3"
+msgstr "Bitte Whlen"
 
-#: D:\Repos\gitEverTelemetry\src\views\template\User.html:43
+#: D:\Repos\gitEverTelemetry\src\views\template\User.html:44
 msgid "Save Changes"
-msgstr "Speicher Änderungen"
+msgstr "Speicher"
 
-#: D:\Repos\gitEverTelemetry\src\views\template\User.html:50
+#: D:\Repos\gitEverTelemetry\src\views\template\User.html:51
 msgid "Log out"
-msgstr "Auslogen"
+msgstr "Ausloggen"
 
-#: D:\Repos\gitEverTelemetry\src\views\template\User.html:53
-msgid "ASfrgerg"
-msgstr "asd"
+#: D:\Repos\gitEverTelemetry\src\views\template\User.html:55
+#, fuzzy
+msgid "Log osut"
+msgstr "Ausloggen"
+
+#~ msgid "ASfrgerg"
+#~ msgstr "Logout"
 
