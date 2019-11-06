@@ -1,8 +1,8 @@
 #: D:\Repos\gitEverTelemetry\src\views\template\User.html:15
-msgid "Setting"
+msgid "Setting2"
 msgstr ""
 
-#: D:\Repos\gitEverTelemetry\src\views\template\User.html:25
+#: D:\Repos\gitEverTelemetry\src\views\template\User.html:34
 msgid "Please Choose3"
 msgstr ""
 
@@ -11,7 +11,7 @@ msgid "Save Changes"
 msgstr ""
 
 #: D:\Repos\gitEverTelemetry\src\views\template\User.html:51
-msgid "Log out"
+msgid "Log ou3t"
 msgstr ""
 
 #: D:\Repos\gitEverTelemetry\src\views\template\User.html:55
