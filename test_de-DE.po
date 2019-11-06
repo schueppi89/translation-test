@@ -29,6 +29,3 @@ msgstr "Ausloggen"
 msgid "Log osut"
 msgstr "Ausloggen"
 
-#~ msgid "ASfrgerg"
-#~ msgstr "Logout"
-
