@@ -1,20 +1,69 @@
-#: D:\Repos\gitEverTelemetry\src\views\template\User.html:14
-msgid "Setting"
-msgstr "Einstellungen"
+# German translations for PACKAGE package.
+# Copyright (C) 2019 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# U-PC-SSC\Simon <Simon@pc-ssc>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-06 14:20+0100\n"
+"PO-Revision-Date: 2019-11-06 13:56+0100\n"
+"Last-Translator: U-PC-SSC\\Simon <Simon@pc-ssc>\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: D:\Repos\gitEverTelemetry\src\views\template\User.html:25
-msgid "Please Choose"
-msgstr "Bitte Wählen"
+#: scripts/../src/controllers/UserController.php:25
+#, fuzzy
+msgid "DoIt Now or"
+msgstr "sdf"
 
-#: D:\Repos\gitEverTelemetry\src\views\template\User.html:43
+#. / asdj wk
+#: scripts/../src/env.php:84
+msgid "Ach s2o"
+msgstr ""
+
+#: scripts/../src/env.php:97
+msgid "Bla Bla2"
+msgstr ""
+
+#: scripts/../src/_twig_translations.php:2
+#, fuzzy
+msgid "Please Choose2"
+msgstr "Por Favore"
+
+#: scripts/../src/_twig_translations.php:4
 msgid "Save Changes"
-msgstr "Speicher"
+msgstr ""
 
-#: D:\Repos\gitEverTelemetry\src\views\template\User.html:50
+#: scripts/../src/_twig_translations.php:6
 msgid "Log out"
-msgstr "Ausloggen"
+msgstr ""
 
-#: D:\Repos\gitEverTelemetry\src\views\template\User.html:53
-msgid "ASfrgerg"
-msgstr "Logout"
+#: scripts/../src/_twig_translations.php:8
+msgid "No data"
+msgstr ""
 
+#: scripts/../src/_twig_translations.php:10
+msgid "Show All"
+msgstr ""
+
+#: scripts/../src/_twig_translations.php:12
+msgid "Please Choose Machine"
+msgstr ""
+
+#: scripts/../src/_twig_translations.php:14
+msgid "No machine selected"
+msgstr ""
+
+#: scripts/../src/_twig_translations.php:16
+msgid "To access this page you have to choose a machine first."
+msgstr ""
+
+#, fuzzy
+#~ msgid "Hello World"
+#~ msgstr "Hola"
