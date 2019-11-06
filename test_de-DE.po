@@ -3,7 +3,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: POEditor.com\n"
 "Project-Id-Version: test\n"
 "Language: de\n"
 
@@ -11,12 +10,11 @@ msgstr ""
 msgid "Setting"
 msgstr "Einstellungen"
 
-#: D:\Repos\gitEverTelemetry\src\views\template\User.html:25
-#, fuzzy
+#: D:\Repos\gitEverTelemetry\src\views\template\User.html:34
 msgid "Please Choose3"
 msgstr "Bitte Whlen"
 
-#: D:\Repos\gitEverTelemetry\src\views\template\User.html:44
+#: D:\Repos\gitEverTelemetry\src\views\template\User.html:45
 msgid "Save Changes"
 msgstr "Speicher"
 
@@ -26,6 +24,6 @@ msgstr "Ausloggen"
 
 #: D:\Repos\gitEverTelemetry\src\views\template\User.html:55
 #, fuzzy
-msgid "Log osut"
+msgid "Log osutw"
 msgstr "Ausloggen"
 
